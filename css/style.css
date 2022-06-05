@@ -217,3 +217,19 @@ p {
 svg {
     width: 22px;
 }
+
+/* footer-section */
+.footer-section {
+    background-color: #222;
+    color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+small {
+    font-size: 16px;
+}
+
+.footer-section h2 {
+    color: #fff;
+}
