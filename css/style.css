@@ -141,3 +141,12 @@ p {
     margin: 10px 0;
     font-size: 16px;
 }
+/* lemits-section*/
+.lemits-content{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.lemits-text p {
+    margin: 15px 0;
+}
